@@ -1,1 +1,28 @@
-IyBTSEFQRUFJIFBZVEhPTiBBTkQgREVFUCBMRUFSUklORyBCT09UQ0FNU0hJIEkgbWFkZSB0aGlzIHByb2plY3QgZHVyaW5nIHRoZSA3IERheXMgRnJlZSBCb290Y2FtcCwgY29uZHVjdGVkIGJ5IDxiPiBTSEFQRUFJPGJyPjwvYj4uIFRoZSBpbnN0cnVjdG9yIGR1cmluZyB0aGUgc2Vzc2lvbiB3YXMgTXIuIFNoYXVyeWEgU2luaGEgKERhdGEgQW5hbHlzdCBJbnRlcm4gYXQgSmlvKS4gSSBnb3QgdG8gbGVhcm4gYSBsb3QgZHVyaW5nIHRoZXNlIDcgZGF5cyBhbmQgaXQgd2FzIGFuIGFtYXppbmcgZXhwZXJpZW5jZSBsZWFybmluZyB3aXRoIFNIQVBFQUkuPGJyPjxicj5IZXJlJ3MgdGhlIGxpbmsgZm9yIHlvdSB0byB3YXRjaCB0aGUgc2Vzc2lvbnMgYXMgd2VsbDxicj48YSBocmVmPSJodHRwczovL3d3dy55b3V0dWJlLmNvbS9wbGF5bGlzdD9saXN0PVBMN3psOFREUm5idW5lNVRucmZCZ0ZieFQ4N0U5OGNmbzkiPiA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWIuY29tL1NoYXBlQUkvUFlUSE9OLUFORC1EQVRBLUFOQUxZVElDUy9ibG9iL21haW4vUHl0aG9uX2FuZF9kZWVwX2xlYXJuaW5nLnBuZyI+IDwvYT48YnI+SSBnb3QgdG8gaGF2ZSBoYW5kcyBvbiBleHBlcmllbmNlIG9uOjxsaT5QeXRob248bGk+VGVuc29yZmxvdzxsaT5EZWVwIExlYXJuaW5nPGJyPmR1cmluZyB0aGVzZSA3IGRheXMsIGFuZCBldmVyeXRoaW5nIHdhcyBleHBsYWluZWQgZnJvbSB0aGUgdmVyeSBiYXNpY3Mgc28gdGhhdFxuYW55b25lIHdpdGggemVybyBleHBlcmllbmNlIG9uIHByb2dyYW1taW5nIGNhbiBsZWFybi5cbkkgZW5qb3llZCB0aGVzZSA3IGRheXMsIHlvdSBjYW4gYXMgd2VsbC4gVG8gcmVnaXN0ZXIgZm9yIG5leHQgZnJlZSA3IGRheXMgYm9vdGNhbXAsIHZpc2l0Olxud3d3LnNoYXBlYWkudGVjaFxub3IgZm9sbG93IFNIQVBFQUkgb246PGxpPjxhIGhyZWY9XG4iaHR0cHM6Ly9pbi5saW5rZWRpbi5jb20vY29tcGFueS9zaGFwZWFpIj5MaW5rZWRJbjwvYT48bGk+PGEgaHJlZj1cbiJodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3NoYXBlLmFpLz9obD1lbiI+SW5zdGFncmFtPC9hPjxsaT48YVxuaHJlZj1cbiJodHRwczovL3d3dy55b3V0dWJlLmNvbS9jaGFubmVsL1VDVFV2RExUVzltZXVEWFdjYm1JU1BkQSI+WW91VHViZTwvYVxuYmU8L2E+PGxpPjxhIGhyZWY9XG4iaHR0cHM6Ly9naXRodWIuY29tL3NoYXBlYWkiPkdpdEh1YjwvcD4KCi0tPiBVcGRhdGVkIG9uIDIwMjMtMTEtMDEgLS0+Cg==
+# SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbune5TnrfBgFbxT87E98cfo9"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/Python_and_deep_learning.png"> </a>
+<br>I got to have hands on experience on:
+<li>Python
+<li>Tensorflow
+<li>Deep Learning
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+www.shapeai.tech
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
+
+<!-- Updated on 2023-10-10 -->
